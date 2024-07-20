@@ -9,8 +9,8 @@ Welcome to my repository for Java and Data Structures & Algorithms (DSA) assignm
   - [Assignment 2: _2OperatorQuestions](_2OperatorQuestions)
   - [Assignment 3: _3ConditionalQuestions](_3ConditionalQuestions)
   - [Assignment 4: _4LoopsQuestions](_4LoopsQuestions)
-  - [Assignment 3: _5PatternsQuestions](_5PatternsQuestions)
-  - [Assignment 3: __6MethodsQuestions](_6MethodsQuestions)
+  - [Assignment 5: _5PatternsQuestions](_5PatternsQuestions)
+  - [Assignment 6: _6MethodsQuestions](_6MethodsQuestions)
 
 ## Introduction
 This repository serves as a collection of assignments and projects that I have completed while learning Java and Data Structures & Algorithms. Each assignment is designed to strengthen my understanding and proficiency in these topics.
