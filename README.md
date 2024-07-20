@@ -5,7 +5,7 @@ Welcome to my repository for Java and Data Structures & Algorithms (DSA) assignm
 ## Table of Contents
 - [Introduction](#introduction)
 - [Assignments](#assignments)
-  - [Assignment 1: _1VariableQuestions](#_1VariableQuestions)
+  - [Assignment 1: _1VariableQuestions](_1VariableQuestions)
   - [Assignment 2: _2OperatorQuestions](#_2OperatorQuestions)
   - [Assignment 3: _3ConditionalQuestions](_3ConditionalQuestions)
   - [Assignment 4: _4LoopsQuestions](#_4LoopsQuestions)
