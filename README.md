@@ -15,12 +15,6 @@ Welcome to my repository for Java and Data Structures & Algorithms (DSA) assignm
 ## Introduction
 This repository serves as a collection of assignments and projects that I have completed while learning Java and Data Structures & Algorithms. Each assignment is designed to strengthen my understanding and proficiency in these topics.
 
-## Contents
-The repository is organized into the following sections:
-- `src/`: Source code files for each assignment.
-- `docs/`: Documentation, including problem statements and explanations.
-- `tests/`: Unit tests for the assignments.
-
 ## Structure
 The repository is structured to provide easy navigation and understanding of the assignments. Each assignment is contained within its own folder, named accordingly.
 
